@@ -12,7 +12,7 @@ pywinauto==0.6.8
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.7
 pip~=19.2.3
 rsa~=4.0
